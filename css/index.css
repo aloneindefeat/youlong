@@ -36,9 +36,9 @@ body{
     float: left;
 }
 .img-box{
-    width: 291px;
-    height: 100%;
-    /* margin-top: 30px; */
+    width: 131px;
+    height: 29px;
+    margin-top: 30px;
 }
 .img-box .img1{
     width: 100%;
